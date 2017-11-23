@@ -1,1 +1,1 @@
-web: gunicorn tej_todoapp:app --log-file=-
+web: python flask_app.py
